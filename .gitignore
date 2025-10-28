@@ -1,0 +1,11 @@
+*/csv/
+dask_logs/
+*/sme_cache/
+__pycache__/
+*.csv
+.DS_Store
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
